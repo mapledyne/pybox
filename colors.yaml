@@ -1,0 +1,43 @@
+# Colors from : http://www.peeron.com/inv/colors
+colors:
+  black: '#05131D'
+  blue: '#0055BF'
+  bright green: '#4B9F4A'
+  bright light yellow: '#FFF03A'
+  bright purple: '#C870A0' # Dark Pink also
+  dark azure: '#078BC9'
+  dark brown: '#352100'
+  brown: '#7C503A'
+  dark green: '#184632'
+  dark orange: '#A95500'
+  dark red: '#720E0F'
+  dark blue violet: '#2032B0'
+  dark bluish gray: '#6C6E68'
+  sky blue: '#7DBFDD'
+  medium dark pink: '#F785B1'
+  light orange brown: '#FA9C1C'
+  light blue: '#B4D2E3'
+  light purple: '#E4ADC8'
+  bright light blue: '#9FC3E9'
+  magenta: '#923978'
+  dark blue: '#0A3463'
+  dark gray: '#6D6E5C'
+  light gray: '#9BA19D'
+  orange: '#FE8A18'
+  purple: '#81007B'
+  lime: '#BBE90B'
+  red: '#C91A09'
+  reddish brown: '#582A12'
+  sand blue: '#6074A1'
+  tan: '#E4CD9E'
+  violet: '#4354A3'
+  green: '#237841'
+  yellow: '#F2CD37'
+  white: '#000000'
+
+color_sets:
+  basic:
+    - red
+    - black
+    - blue
+    - white
